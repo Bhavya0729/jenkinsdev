@@ -1,4 +1,5 @@
 hello welcome to jenkins
+echo "poll scm"
 echo "webhook concept"
 echo "webhook concept"
 echo "webhook concept again"
